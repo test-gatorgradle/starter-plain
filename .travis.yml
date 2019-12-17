@@ -1,3 +1,4 @@
+env:
+  - GATOR_ENDPOINT=https://4tjfjgbpw5.execute-api.us-east-2.amazonaws.com/default/upload-DB-python
 script:
   echo $GATOR_ENDPOINT
-  
